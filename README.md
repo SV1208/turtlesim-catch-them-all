@@ -7,7 +7,8 @@ It demonstrates how to spawn multiple turtles in the `turtlesim` simulator and c
 ## 🎥 Demo Video
 
 Check out the video of this project here:  
-👉 [Watch the Video][![Demo Thumbnail](https://img.youtube.com/vi/qsUvp61ZfWY/0.jpg)](https://www.youtube.com/watch?v=qsUvp61ZfWY)
+
+[![Demo Thumbnail](https://img.youtube.com/vi/qsUvp61ZfWY/0.jpg)](https://www.youtube.com/watch?v=qsUvp61ZfWY)
 
 
 ## Installation
